@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chat-Da-Galera/static/css/main.5ea88755.css",
+    "main.js": "/Chat-Da-Galera/static/js/main.97a0c9c1.js",
+    "index.html": "/Chat-Da-Galera/index.html",
+    "main.5ea88755.css.map": "/Chat-Da-Galera/static/css/main.5ea88755.css.map",
+    "main.97a0c9c1.js.map": "/Chat-Da-Galera/static/js/main.97a0c9c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea88755.css",
+    "static/js/main.97a0c9c1.js"
+  ]
+}
